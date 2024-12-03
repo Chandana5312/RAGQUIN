@@ -1,0 +1,134 @@
+﻿capability/category,category_metrics_product,Channel,Channel_attribute
+,,,
+,,,
+ABM Recommendation Flow,ABM Recommendations Covered By Sellers,Infrastructure,"""Contains http://"""
+BEAM Operations Performance,ABM Recommendations Flowing Without Errors,Security,"""Contains https://"""
+Contact to Account Matching,ABM Recommendations Tracked,By Segment,ABM
+Domain Management,Accuracy ABM (Contacts),Infrastructure,ABM Targeted
+Email Deliverability,Accuracy Corporate Marketo Program (Programs),Security,ABM Targeted Accounts
+Event Data Quality,Accuracy Field Marketo Program (Programs),By Priority List,Accelerate Revenue Generation
+Job Title - Job Role Standardization,Accuracy JT-JR-MA Match (Acquired Leads),By Source System,Activity
+Lead Data Collection - Non Trials,Accuracy Major,Infrastructure,ANZ
+Lead Data Collection - Trial,Accuracy Major Growth,Security,Apps & Infrastructure
+Marketo Contact Profile,Accuracy Marketo Attributes (Leads),Business Applications,Apps & Infrastructure - Customer Acquisition
+"Marketo Program Creation (tags, tokens, slugs)",Accuracy SMC,Business Applications,ASEAN
+Operational Data Health,Availability of Data Sources for Lead Scoring,By Segment,Azure
+Seller Coverage Assessment,Completeness ABM (Accounts),By Area,Azure GSS
+Seller Engagement (CDQ),Completeness ABM (Contacts),By Priority List,Blocked as Spam
+Seller Feedback (CDQ),Completeness Active Seller Sentiment (Sellers),By Priority List (SFT),Bot Operators Reply within SLA
+Signal Flow Support,Completeness Bot Operators (Replies),By Segment Group,Build And Modernize Ai Apps
+,Completeness Contacts (Feedbacks),By Solution Area,Business Applications
+,Completeness Contacts Received an Email (Unique Contacts),By Source System,Business Applications - Customer Acquisition
+,Completeness Corporate Marketo Program (Programs),Data and AI,Canada
+,Completeness Domain - Country (Contacts),Data and AI,CEMA
+,Completeness Emails Delivered (Emails),Digital and Application Innovation,CLAS
+,Completeness Field Marketo Program (Programs),Digital and Application Innovation,Company Name
+,Completeness Issues Mitigated within SLA (Issues),Infrastructure,Company Size
+,Completeness Job-Title (Acquired Leads),Modern Work,Contact No Longer at the Company
+,Completeness JT-JR-MA Match (Acquired Leads),Modern Work,Contact-Account Mismatch
+,Completeness Leads Not Impacted by Signal Flow Issues (Leads),Security,Country
+,Completeness Major,Business Applications,Cross-Workload
+,Completeness Major Growth,Business Applications,CSM (Old List)
+,Completeness MAL (Accounts),By Priority Lists,Data Security
+,Completeness Marketo Attributes (Leads),By Area,Digital & App Innovation
+,Completeness Non-ABM (Contacts),By Priority List (SFT),Domain with at least 2 Contacts (ABM)
+,Completeness Others (Accounts),By Segment Group,Domain with at least 2 Contacts (Non-ABM)
+,Completeness Product (Leads),By Solution Area,Drive Business Transformation with Copilot
+,Completeness Self Detected Signal Flow Issues (Issues),Company Name,Education
+,Completeness SMC,Country,Email
+,Completeness Source (Events),Data and AI,Email Address
+,Completeness Source (Leads),Data and AI,Enterprise
+,Completeness Targeted vs Actual Sends (Emails),Digital and Application Innovation,EPC ID
+,Lead Scoring Service Response Rate,Digital and Application Innovation,Event Name
+,,Email,Event Sign Ups
+,,First Name,Event Start Date
+,,Infrastructure,First Name
+,,Job Role,Format
+,,Job Title,France
+,,Last Name,"Free from ""Invalid Character"""
+,,Modern Work,"Free from ""Marketo Program Name"""
+,,Modern Work,"Free from ""Replace"""
+,,Negative Feedback,"Free from ""TBD"""
+,,Phone,"Free from ""Update"""
+,,Positive Feedback,Free From Area Slug Error
+,,Priority Lists,Free From Channel Slug Error
+,,Priority Lists,Free From DD Slug Error
+,,Security,Free From FY Slug Error
+,,Bot Operators Reply within SLA,Free From GEP Slug Error
+,,Business Applications,Free From GEP Tag Error
+,,Business Applications,Free from Hard Bounces
+,,By Area,Free From Invalid/Misaligned GEP Scenario Tag
+,,By Model,Free From Invalid/Misaligned GEP Tag
+,,By Priority List,Free From MM Slug Error
+,,By Priority List (SFT),Free from Space
+,,By Priority Lists,Free from Spam Blocks
+,,By Segment Group,Free From Undefined
+,,By Solution Area,Free from undefined GEP Slug
+,,By Source,Frontline Workers
+,,By Source System,Germany
+,,Company Name,Github
+,,Country,Greater China
+,,Data and AI,Host
+,,Data and AI,Incorrect Email
+,,Developer Enablement Skilling Reactor (CnE-WindowsATP),Incorrect JobTitle
+,,Digital and Application Innovation,Incorrect Phone
+,,Digital and Application Innovation,India
+,,Dynamics (AdminTrial),Innovate with AI in Low Code
+,,Dynamics (Viral),Invalid Email
+,,Email,ISV
+,,Events (D365 Event Management),Japan
+,,Events (EventCore/Stova),Job Title
+,,First Name,Korea
+,,Free from Hard Bounces,Last Name
+,,Friendly Name populated,Latam
+,,Friendly Name valid,Leads
+,,Friendly Name populated,Major
+,,Friendly Name valid,Major Growth
+,,General Use (ListUpload),Marketing Play
+,,GitHub (GitHub),Migrate and Secure Windows Server SQL and Linux Estate
+,,Infrastructure,Modern Work
+,,Job Role,Modern Work GSS
+,,Job Title,Modern Workplace
+,,Landing Page URL populated,Modern Workplace - Customer Acquisition
+,,Landing Page URL valid,Modernize ERP
+,,Landing Page URL populated,Modernize Service
+,,Landing Page URL valid,MSX
+,,Last Name,Netherlands
+,,Marketing Play populated,No Token Missing
+,,Marketing Play valid,Non-ABM Targeted
+,,Marketing Play populated,Not Blocked by Communication Limits
+,,Marketing Play valid,Not Blocked by Consent Suppressions
+,,Modern Work,Operational Batch Data
+,,Modern Work,Others
+,,Modern Work (Admin),Others (Categorization in-progress)
+,,Negative Feedback by Solution Area,Others (MLQML)
+,,Paid Acquisition (Integrate),Owning Area
+,,Partner Data (PRMOneGDC),Paid Acquisition
+,,Phone,Paid Acquisition and Social
+,,Planning (EMC),Paid Acquisition List (Current Quarter)
+,,Positive Feedback by Solution Area,Paid Acquisition List (FY to Date)
+,,Power Automate,Partner Data
+,,PowerApps,Phone
+,,PowerBI,Phone #
+,,Priority Lists,Positive Feedback
+,,Priority Lists,Primary Language
+,,Program Name slugs valid,Program
+,,Program Name slugs valid,Scenario
+,,Scenario populated,Secure Productivity
+,,Scenario valid,Security
+,,Scenario populated,SMB
+,,Scenario valid,SMC
+,,Security,SMC-Corporate
+,,Successful Deliveries,Strategic
+,,Successful Sends,Subscriptions
+,,Tickets Analyzed (# of Tickets),Switzerland
+,,,Target Attendance
+,,,Threat Protection
+,,,Tier
+,,,Trial Sign Ups
+,,,UK
+,,,Uncategorized
+,,,Unify Your Intelligent Data and Analytics Platform
+,,,United States
+,,,Web and Product Sign Ups
+,,,Western Europe

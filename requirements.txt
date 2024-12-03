@@ -1,0 +1,14 @@
+azure-functions
+azure-storage-blob==12.19.1
+azure-search-documents==11.6.0b3
+openai==1.17.1
+requests
+python-dotenv
+azure-core
+azure-identity
+openai[datalib]
+tenacity
+numpy
+pyodbc
+pandas
+flask
